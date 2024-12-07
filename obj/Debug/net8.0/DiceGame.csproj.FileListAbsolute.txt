@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfo.cs
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\DiceGame\bin\Debug\net8.0\DiceGame.exe
+C:\Users\TOSHIBA\DiceGame\bin\Debug\net8.0\DiceGame.deps.json
+C:\Users\TOSHIBA\DiceGame\bin\Debug\net8.0\DiceGame.runtimeconfig.json
+C:\Users\TOSHIBA\DiceGame\bin\Debug\net8.0\DiceGame.dll
+C:\Users\TOSHIBA\DiceGame\bin\Debug\net8.0\DiceGame.pdb
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\DiceGame.dll
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\refint\DiceGame.dll
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\DiceGame.pdb
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
+C:\Users\TOSHIBA\DiceGame\obj\Debug\net8.0\ref\DiceGame.dll
